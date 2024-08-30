@@ -1,4 +1,5 @@
 {
+  "homepage": "https://gabriilla87.github.io/drawing-thing",
   "name": "square",
   "version": "0.1.0",
   "private": true,
@@ -10,9 +11,12 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+    "@types/styled-components": "^5.1.34",
+    "@types/uuid": "^10.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.1.12",
     "typescript": "^4.4.2",
     "web-vitals": "^2.1.0"
   },
@@ -20,7 +24,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
