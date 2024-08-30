@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/DrawingThing/static/css/main.b9749273.css",
-    "main.js": "/DrawingThing/static/js/main.d77e0903.js",
-    "static/js/453.b6a3b5f3.chunk.js": "/DrawingThing/static/js/453.b6a3b5f3.chunk.js",
-    "index.html": "/DrawingThing/index.html",
-    "main.b9749273.css.map": "/DrawingThing/static/css/main.b9749273.css.map",
-    "main.d77e0903.js.map": "/DrawingThing/static/js/main.d77e0903.js.map",
-    "453.b6a3b5f3.chunk.js.map": "/DrawingThing/static/js/453.b6a3b5f3.chunk.js.map"
+    "main.css": "/drawing-thing/static/css/main.b9749273.css",
+    "main.js": "/drawing-thing/static/js/main.578bc434.js",
+    "static/js/453.b6a3b5f3.chunk.js": "/drawing-thing/static/js/453.b6a3b5f3.chunk.js",
+    "index.html": "/drawing-thing/index.html",
+    "main.b9749273.css.map": "/drawing-thing/static/css/main.b9749273.css.map",
+    "main.578bc434.js.map": "/drawing-thing/static/js/main.578bc434.js.map",
+    "453.b6a3b5f3.chunk.js.map": "/drawing-thing/static/js/453.b6a3b5f3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9749273.css",
-    "static/js/main.d77e0903.js"
+    "static/js/main.578bc434.js"
   ]
 }
